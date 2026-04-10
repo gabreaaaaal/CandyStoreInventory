@@ -12,7 +12,6 @@ A CLI-Based Inventory Management System built with **C# Console Application** us
 - View transaction history
 - Display low-stock items
 - Compute total inventory value
-- User login with role-based access
 
 ---
 
