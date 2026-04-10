@@ -330,7 +330,7 @@ void PrintBanner()
     Console.ForegroundColor = ConsoleColor.Yellow;
     Console.WriteLine();
     Console.WriteLine("  ╔══════════════════════════════════════════════════════════════════════════╗");
-    Console.WriteLine("  ║              POLANGUI CANDY CORNER  --  Inventory System               ║");
+    Console.WriteLine("  ║              POLANGUI CANDY CORNER  --  Inventory System                 ║");
     Console.WriteLine("  ╚══════════════════════════════════════════════════════════════════════════╝");
     Console.ResetColor();
     Console.WriteLine();
