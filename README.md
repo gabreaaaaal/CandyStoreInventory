@@ -52,7 +52,7 @@ CandyStoreInventory/
 
 ## How to Run
 
-dotnet run --project CandyStoreInventory
+dotnet run --project CandyStoreInventory.csproj
 
 ---
 
